@@ -1,0 +1,6 @@
+{
+  "prompt": "Two intricate steampunk-style mechanical machines placed side by side on a wooden workbench in a dimly lit high-tech laboratory. The left machine is simpler, cleanly structured, and processes colorful crystal-like data pieces into a neat, organized stream onto a conveyor belt. The right machine is far more complex, with excessive gears, wires, and dense internal connections; it processes similar crystal data but outputs them chaotically, spilling and scattering everywhere in a visually dramatic explosion. Highly detailed, cinematic lighting, shallow depth of field, photorealistic materials, sharp focus on machines, soft blurred background with monitors. No text, no labels, no diagrams, no symbols, no equations. --no text, labels, annotations, diagrams, graphs, UI elements",
+  "model": "Gemini 2.5 Flash Image (nano-banana)",
+  "concept": "Overfitting",
+  "metaphor": "Two machines: a simple one produces clean output, while an overly complex one memorizes input but fails, scattering results—mapping complexity to poor generalization."
+}
